@@ -37,6 +37,7 @@ model_types = {
     'anthropic.claude-3-5-sonnet-20241022-v2:0': 'sonnet',
     'anthropic.claude-3-sonnet-20240229-v1:0': 'sonnet',
     'anthropic.claude-3-haiku-20240307-v1:0': 'haiku',
+    'anthropic.claude-3-5-haiku-20241022-v1:0': 'haiku-3-5'
     # Google
     'claude-3-opus@20240229': 'opus',
     'claude-3-5-sonnet-v2@20241022': 'sonnet',
